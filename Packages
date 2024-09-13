@@ -8,6 +8,7 @@ Maintainer: 来了老弟
 Section: rootless应用插件
 Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
 SileoDepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
+Filename: debs/rootless/cn.llld.qsyy_9.9.9(原2.2.1-5)_iphoneos-arm64.deb
 Architecture: iphoneos-arm64
 Version: 9.9.9
 Installed-Size: 5648
@@ -20,6 +21,8 @@ Installed-Size: 5648
  Description: 安装即生效，完全汉化NathanLR
  Maintainer: XUUᶻ
  Author: XUUᶻ
+ Section: rootless应用插件
+ Filename: debs/rootless/com.xuuz.nathanlrhh_0.0.1-4+debug_iphoneos-arm64.deb
  Section: Tweaks
  Depends: mobilesubstrate (>= 0.9.5000)
  Architecture: iphoneos-arm64
