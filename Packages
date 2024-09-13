@@ -1,0 +1,9 @@
+Package: cn.llld.qsyy
+Version: 9.9.9 (原2.2.1-5)
+Architecture: iphoneos-arm64
+Maintainer: GGbond
+Installed-Size: 1000
+Depends: mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Filename: debs/rootless/cn.llld.qsyy_9.9.9(原2.2.1-5)_iphoneos-arm64.deb
+Description: 这是一个用于解锁QSY的插件
